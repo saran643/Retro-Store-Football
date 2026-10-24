@@ -1,0 +1,53 @@
+:root {
+  /* RETRO STORE Color Palette */
+  --color-cream: #F5F0E6;
+  --color-cream-light: #FAF7F0;
+  --color-warm-white: #FFFCF6;
+  --color-black: #171717;
+  --color-black-pure: #0D0D0D;
+  --color-burgundy: #721C32;
+  --color-burgundy-hover: #5A1426;
+  --color-burgundy-light: #F7EAEF;
+  --color-gold: #B79A63;
+  --color-gold-hover: #9E824F;
+  --color-gold-light: #F6F1E7;
+  --color-soft-grey: #D8D2C8;
+  --color-border: #E5DFC8;
+  --color-text-muted: #5C554E;
+  --color-text-light: #7A7268;
+  
+  /* Status Colors */
+  --color-success: #1B5E20;
+  --color-success-bg: #E8F5E9;
+  --color-warning: #E65100;
+  --color-warning-bg: #FFF3E0;
+  --color-danger: #B71C1C;
+  --color-danger-bg: #FFEBEE;
+  --color-info: #0D47A1;
+  --color-info-bg: #E3F2FD;
+
+  /* Typography */
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-display: 'Cinzel', 'Playfair Display', serif;
+  --font-heading: 'Syne', 'Playfair Display', sans-serif;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  /* Elevations & Shadows */
+  --shadow-sm: 0 2px 4px rgba(23, 23, 23, 0.05);
+  --shadow-md: 0 4px 12px rgba(23, 23, 23, 0.08);
+  --shadow-lg: 0 10px 25px rgba(23, 23, 23, 0.12);
+  --shadow-vintage: 3px 3px 0px #171717;
+  --shadow-vintage-burgundy: 3px 3px 0px #721C32;
+  --shadow-gold: 0 4px 20px rgba(183, 154, 99, 0.25);
+
+  /* Radii */
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 10px;
+  --radius-pill: 9999px;
+
+  /* Layout */
+  --header-height: 80px;
+  --max-width: 1280px;
+  --transition-smooth: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
